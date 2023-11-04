@@ -17,7 +17,7 @@ export default SearchResult
 
 const FoodCardContainer = styled.section`
   min-height: calc(100vh - 192px);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("/bg.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("bg.png");
   background-size: cover;
 `
 

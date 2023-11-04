@@ -2,7 +2,7 @@ const foodArray = [
     {
       id: "01",
       name: "Boiled Eggs",
-      url: "/BoiledEggs.png",
+      url: "BoiledEggs.png",
       text: "Lorem ipsum dolor sit amet consectetur. Odio elementum in neque cras eget est.",
       price: "$10.00",
       type: "Breakfast"
@@ -10,7 +10,7 @@ const foodArray = [
     {
       id: "02",
       name: "Ramen",
-      url: "/Ramen.png",
+      url: "Ramen.png",
       text: "Lorem ipsum dolor sit amet consectetur. Odio elementum in neque cras eget est.",
       price: "$25.00",
       type: "Lunch"
@@ -18,7 +18,7 @@ const foodArray = [
     {
       id: "03",
       name: "Grilled Chicken",
-      url: "/GrilledChicken.png",
+      url: "GrilledChicken.png",
       text: "Lorem ipsum dolor sit amet consectetur. Odio elementum in neque cras eget est.",
       price: "$45.00",
       type: "Dinner"
@@ -26,7 +26,7 @@ const foodArray = [
     {
       id: "04",
       name: "Cake",
-      url: "/Cake.png",
+      url: "Cake.png",
       text: "Lorem ipsum dolor sit amet consectetur. Odio elementum in neque cras eget est.",
       price: "$18.00",
       type: "Breakfast"
@@ -34,7 +34,7 @@ const foodArray = [
     {
       id: "05",
       name: "Burger",
-      url: "/Burger.png",
+      url: "Burger.png",
       text: "Lorem ipsum dolor sit amet consectetur. Odio elementum in neque cras eget est.",
       price: "$23.00",
       type: "Lunch"
@@ -42,7 +42,7 @@ const foodArray = [
     {
       id: "06",
       name: "Pancake",
-      url: "/Pancake.png",
+      url: "Pancake.png",
       text: "Lorem ipsum dolor sit amet consectetur. Odio elementum in neque cras eget est.",
       price: "$25.00",
       type: "Dinner"
