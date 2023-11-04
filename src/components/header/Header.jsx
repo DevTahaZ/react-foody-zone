@@ -6,7 +6,7 @@ function Header({ SetSearch }) {
   return (
     <MainComponent>
       <Top>
-        <img src="/src/assets/title.svg" alt="" />
+        <img src="/title.svg" alt="" />
         <input 
           onChange={(e) => SetSearch(e.target.value)} 
           className='input' 
