@@ -1,13 +1,12 @@
 import React from 'react'
 import styled from 'styled-components'
-import titlePic from '../../../public/title.svg'
 
 function Header({ SetSearch }) {
   
   return (
     <MainComponent>
       <Top>
-        <img src={titlePic} alt="" />
+        <img src="title.svg" alt="" />
         <input 
           onChange={(e) => SetSearch(e.target.value)} 
           className='input' 
