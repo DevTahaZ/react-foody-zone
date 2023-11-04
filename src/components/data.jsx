@@ -2,7 +2,7 @@ const foodArray = [
     {
       id: "01",
       name: "Boiled Eggs",
-      // url: "../../Public/BoiledEggs.png",
+      url: "BoiledEggs.png",
       text: "Lorem ipsum dolor sit amet consectetur. Odio elementum in neque cras eget est.",
       price: "$10.00",
       type: "Breakfast"
